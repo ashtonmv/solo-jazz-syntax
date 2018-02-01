@@ -1,0 +1,16 @@
+{
+  "name": "solo-jazz-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "The 90-est of all themes. Based on the classic Solo Jazz cup
+                  design",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ashtonmv/solo-jazz-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
